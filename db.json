@@ -1,7 +1,17 @@
 {
   "trials": [
-    {"id": 1, "name": "Black Mountain", "location": "Canberra", "created by": "User1"},
-    {"id": 2, "name": "Savy Blue", "location": "Perth", "created by": "User2"},
-    {"id": 3, "name": "Wheat Adventure", "location": "Sydney", "created by": "User3"}
+    {
+      "id": 1,
+      "title": "Black Mountain",
+      "location": "Canberra"
+    },
+    {
+      "id": 2,
+      "title": "Wheat Project",
+      "location": "Perth"
+    }
   ],
+  "users": {
+    "name": "Alex"
+  }
 }
